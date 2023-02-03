@@ -1,0 +1,22 @@
+{
+  "name": "aris-core-ui",
+  "version": "1.0.1",
+  "description": "Place holder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucy9x/aris-core-ui.git"
+  },
+  "keywords": [
+    "aris-core-ui"
+  ],
+  "author": "Shanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucy9x/aris-core-ui/issues"
+  },
+  "homepage": "https://github.com/lucy9x/aris-core-ui#readme"
+}
